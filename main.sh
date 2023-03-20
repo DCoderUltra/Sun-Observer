@@ -1,4 +1,4 @@
 ./download.sh
-#./copy.sh
+./copy.sh
 ./credit.sh
-#./gif.sh
+./gif.sh
