@@ -1,4 +1,4 @@
-# sun_observer
+# Sun Observer
 V 1.0
 
 Allows to download and analyze the sun behaviour for the last 24 hours.
