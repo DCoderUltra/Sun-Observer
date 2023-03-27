@@ -1,4 +1,6 @@
 # sun_observer
+V 3.0
+
 Allows to download and analyze the sun behaviour for the last 24 hours.
 This compilation of bash scripts go to the NASA website and downloads the images captured by their sattelites and allows the user to see a beutigul gif that captures the sun movement thourght the last 2 days.
 
